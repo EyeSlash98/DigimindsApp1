@@ -1,2 +1,2 @@
 # DigimindsApp1
-Android App 1 of Digiminds
+This is The 1st THe app of Digiminds...
